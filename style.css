@@ -1680,7 +1680,7 @@ position: relative;
     overflow-x: hidden;
   }
   html{
-    overflow: hidden;
+    overflow-x: hidden;
   }
   
   .nav{
@@ -2048,7 +2048,7 @@ position: relative;
     overflow-x: hidden;
   }
   html{
-    overflow: hidden;
+    overflow-x: hidden;
   }
   
   .nav{
@@ -2419,7 +2419,7 @@ position: relative;
     overflow-x: hidden;
   }
   html{
-    overflow: hidden;
+    overflow-x: hidden;
   }
   
   .nav{
